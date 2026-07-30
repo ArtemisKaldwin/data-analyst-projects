@@ -1,6 +1,6 @@
 # Projets Data Analyst — Kawtar Belkacemi
 
-Code et livrables techniques des projets présentés dans mon [portfolio](https://artemiskaldwin.github.io/portfolio/), organisés un dossier par projet avec son propre README (contexte, données, démarche, résultats, limites).
+Ensemble des livrables des projets présentés dans mon [portfolio](https://artemiskaldwin.github.io/portfolio/), organisés un dossier par projet avec son propre README (contexte, données, démarche, résultats, limites) et tous les fichiers sources associés (notebooks, requêtes, schémas, présentations, données).
 
 | Dossier | Projet | Outils |
 |---|---|---|
@@ -22,5 +22,6 @@ Code et livrables techniques des projets présentés dans mon [portfolio](https:
 
 ## Notes techniques
 
-- Les notebooks des projets P4, P6 et P9 ont eu leurs sorties de cellules (graphiques, tableaux) retirées pour réduire drastiquement la taille des fichiers sur ce repo. Le rendu complet avec visualisations reste disponible via l'export PDF référencé dans chaque fiche portfolio.
-- P3, P5 et P11 ne contiennent pas de script brut dans les livrables sources (requêtes et analyses documentées uniquement dans les rapports PDF) : leur dossier ne contient donc que le README et, le cas échéant, les fichiers de données associés.
+- Les notebooks des projets P4, P6 et P9 ont eu leurs sorties de cellules (graphiques, tableaux) retirées de `notebook.ipynb` pour réduire drastiquement la taille du fichier sur ce repo. Le rendu complet avec visualisations est fourni à côté, en PDF, dans le même dossier.
+- P3, P5 et P11 n'ont jamais eu de script brut dans les livrables originaux : les requêtes SQL, schémas et analyses y sont documentés uniquement sous forme de rapports PDF, tous inclus dans leur dossier respectif.
+- Chaque dossier contient l'intégralité des fichiers livrés pour le projet correspondant (documents techniques, présentations, données), pas seulement le code.

@@ -1,6 +1,7 @@
 # P2 — Analyse de ventes pour un e-commerce
 
 **Outils :** Excel
+**Fichiers de ce dossier :** `rapport_mensuel.pdf`, `Belkacemi_Kawtar_2_clients_affilies_102024.xlsx` (données et tableaux croisés dynamiques)
 
 ## Contexte / besoin métier
 Rapport mensuel de suivi commercial pour une équipe marketing, après une réorientation stratégique progressive des catégories vendues (abandon du high-tech au profit de la nourriture et des biens de consommation).

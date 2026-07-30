@@ -1,6 +1,7 @@
 # P8 — Indicateurs d'égalité femmes-hommes en conformité RGPD
 
 **Outils :** KNIME (pipeline ETL visuel), export CSV
+**Fichiers de ce dossier :** `workflow_knime.knwf` (pipeline complet, ouvrable dans KNIME), `indicateurs_egalite.csv` (export anonymisé), `presentation.pdf` / `presentation.pptx`
 
 ## Contexte / besoin métier
 Cabinet de plus de 150 salariés, soumis à l'obligation légale de publier son index d'égalité professionnelle femmes-hommes (obligatoire au-delà de 50 salariés, publication avant le 1er mars). Mission mandatée par la DRH, avec un enjeu RSE fort.

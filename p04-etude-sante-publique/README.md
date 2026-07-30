@@ -1,7 +1,7 @@
 # P4 — Étude de sécurité alimentaire mondiale (données FAO)
 
 **Outils :** Python, pandas
-**Livrables sources :** notebook (.ipynb + export PDF), présentation (.pptx)
+**Fichiers de ce dossier :** `notebook.ipynb` (code, sorties retirées), `notebook_export.pdf` (rendu complet avec graphiques), `presentation.pptx`
 
 ## Contexte / besoin métier
 

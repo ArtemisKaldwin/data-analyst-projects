@@ -1,6 +1,7 @@
 # P3 — Requêtage d'une base de contrats d'assurance habitation
 
 **Outils :** SQL (MySQL Workbench, SQL Power Architect)
+**Fichiers de ce dossier :** `1_document_technique.pdf` (schéma relationnel et choix techniques), `2_liste_requetes.pdf` (les 12 requêtes SQL avec leurs résultats), `3_methodologie.pdf`, `4_grille.pdf` (grille d'auto-évaluation)
 
 ## Contexte / besoin métier
 Analyser les données de contrats d'assurance habitation d'une entreprise pour comprendre le marché et orienter des décisions stratégiques, à partir d'une base relationnelle à construire.

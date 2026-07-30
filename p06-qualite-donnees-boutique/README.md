@@ -1,6 +1,7 @@
 # P6 — Qualité de données pour une boutique en ligne (Bottleneck)
 
 **Outils :** Python, pandas
+**Fichiers de ce dossier :** `notebook.ipynb` (code, sorties retirées), `notebook_export.pdf` (rendu complet avec graphiques), `presentation.pdf`
 
 ## Contexte / besoin métier
 Boutique de spiritueux vendant sur deux canaux (ERP interne et site web), avec des données fragmentées (prix erronés, doublons, références manquantes). Objectif : consolider les bases et fiabiliser les données pour orienter les décisions de gestion de stock.

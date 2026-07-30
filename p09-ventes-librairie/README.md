@@ -1,7 +1,7 @@
 # P9 — Analyse des ventes d'une librairie en ligne
 
 **Outils :** Python, pandas, SciPy
-**Livrables sources :** notebook (.ipynb + export PDF), support de présentation (PDF)
+**Fichiers de ce dossier :** `notebook.ipynb` (code, sorties retirées), `notebook_export.pdf` (rendu complet avec graphiques), `support_presentation.pdf`
 
 ## Contexte / besoin métier
 

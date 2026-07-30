@@ -1,6 +1,7 @@
 # P5 — Base de données relationnelle immobilière
 
 **Outils :** SQL (MySQL), DBeaver
+**Fichiers de ce dossier :** `Belkacemi_Kawtar_1_dictionnaire_de_donnees_032025.xlsx` (dictionnaire de données), `presentation.pdf` (schéma relationnel et 12 requêtes SQL documentées)
 
 ## Contexte / besoin métier
 Projet "DATAImmo" : structurer des données immobilières hétérogènes (DVF, INSEE) en une base relationnelle fiable et conforme RGPD, pour permettre des analyses croisées géographiques et démographiques.
