@@ -1,7 +1,9 @@
 # P11 — Étude de marché export pour une filière avicole bio
 
 **Outils :** Python, pandas, scikit-learn (ACP, KMeans, CAH)
-**Livrables sources :** rapport de préparation/nettoyage (PDF), rapport de clustering (PDF), présentation (PDF)
+**Fichiers de ce dossier :** `1_preparation_nettoyage_eda.pdf`, `2_clustering_visualisations.pdf`, `3_presentation.pdf`
+
+Aucun `.ipynb` n'existe dans les livrables originaux de ce projet : ces trois rapports PDF sont la seule trace du code source et de l'analyse disponible.
 
 ## Contexte / besoin métier
 

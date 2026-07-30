@@ -38,4 +38,4 @@ Quatre tables FAO croisées par pays et année (référence 2017) :
 
 ---
 
-*Note : les sorties (graphiques, tableaux) du notebook ont été retirées pour réduire la taille du fichier sur ce repo. Le rendu complet avec visualisations est disponible dans l'export PDF cité dans la fiche portfolio.*
+*Note : les sorties (graphiques, tableaux) du notebook ont été retirées pour réduire la taille du fichier sur ce repo. Le rendu complet avec visualisations est disponible dans `notebook_export.pdf`, dans ce même dossier.*

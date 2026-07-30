@@ -36,4 +36,4 @@ Variables dérivées créées : chiffre d'affaires, âge du client, mois de la t
 
 ---
 
-*Note : les sorties (graphiques, tableaux) du notebook ont été retirées pour réduire la taille du fichier sur ce repo. Le rendu complet avec visualisations est disponible dans l'export PDF cité dans la fiche portfolio.*
+*Note : les sorties (graphiques, tableaux) du notebook ont été retirées pour réduire la taille du fichier sur ce repo. Le rendu complet avec visualisations est disponible dans `notebook_export.pdf`, dans ce même dossier.*

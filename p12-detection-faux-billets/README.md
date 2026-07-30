@@ -1,7 +1,9 @@
 # P12 — Détection de faux billets par machine learning
 
 **Outils :** Python, pandas, scikit-learn
-**Livrables sources :** notebook d'analyse (PDF), script d'application (`.pkl`), notebook de test (PDF), présentation (PDF)
+**Fichiers de ce dossier :** `notebook_analyse.pdf` (notebook d'analyse et d'entraînement), `notebook_test_script.pdf` (notebook de test du script), `model_final.pkl` (modèle entraîné, sérialisé), `presentation.pdf`
+
+Aucun `.ipynb` n'existe dans les livrables originaux de ce projet : l'export PDF du notebook est la seule trace du code source disponible.
 
 ## Contexte / besoin métier
 
