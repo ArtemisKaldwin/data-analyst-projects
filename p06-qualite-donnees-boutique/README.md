@@ -25,7 +25,20 @@ Jointures (ERP avec liaison en jointure interne, puis avec le web en jointure co
 - 4 références identifiées à marge négative, à corriger en priorité.
 
 ## Limites + prochaines pistes
-Corrélations présentées de façon descriptive, sans test statistique formalisant leur significativité. Piste : automatiser les contrôles de cohérence entre ERP et site web via un dictionnaire de données partagé.
+Corrélations présentées de façon descriptive, sans test statistique formalisant leur significativité. Détection d'outliers strictement univariée sur le prix (Z-score, IQR), incapable de repérer un article dont le prix est normal mais dont la combinaison stock/ventes est atypique. Piste : automatiser les contrôles de cohérence entre ERP et site web via un dictionnaire de données partagé.
+
+**Ces deux limites ont été traitées dans une itération ultérieure** — voir [`mission1-amelioration-ia/`](./mission1-amelioration-ia) ci-dessous.
+
+## Amélioration critique augmentée par l'IA (Mission 1)
+
+Ce notebook a servi de base à un exercice distinct : l'améliorer de façon critique et documentée à l'aide de l'IA, en comparant plusieurs options et en justifiant chaque choix (qualité, biais, coût, reproductibilité, conformité) plutôt qu'en acceptant une suggestion telle quelle.
+
+- **Veille technologique** : comparaison de trois méthodes de détection d'anomalies multivariées (Isolation Forest, Local Outlier Factor, One-Class SVM), Isolation Forest retenu et justifié.
+- **Nouveau résultat obtenu** : 19 articles ont une combinaison stock/ventes anormale invisible à l'analyse de prix univariée du notebook original — la preuve chiffrée de la limite identifiée en veille.
+- **Validation statistique ajoutée** : tests de significativité (Pearson + Spearman, p-values) sur les corrélations, qui révèlent une relation forte entre stock et prix d'achat (Spearman r=-0,55, p<0,0001) totalement invisible à un simple coefficient de Pearson (r=-0,02).
+- **Incident détecté et corrigé, documenté sans le masquer** : le premier brouillon du notebook amélioré contenait un bug de formatage (sauts de ligne perdus dans 17 cellules) qui empêchait toute exécution. Diagnostiqué, corrigé, puis le notebook a été réellement exécuté de bout en bout (0 erreur sur 92 cellules) avant de considérer le livrable fiable.
+
+Dossier complet, avec cahier des charges, organisation projet (lots, backlog, risques) et documentation : [`mission1-amelioration-ia/`](./mission1-amelioration-ia).
 
 ---
 
