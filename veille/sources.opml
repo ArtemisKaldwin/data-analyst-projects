@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Veille Data Analyst — Kawtar Belkacemi</title>
+    <ownerName>Kawtar Belkacemi</ownerName>
+    <dateModified>2026-08-07</dateModified>
+  </head>
+  <body>
+    <outline text="Outils — versions et changelogs" title="Outils">
+      <outline type="rss" text="scikit-learn releases" xmlUrl="https://github.com/scikit-learn/scikit-learn/releases.atom"/>
+      <outline type="rss" text="pandas releases" xmlUrl="https://github.com/pandas-dev/pandas/releases.atom"/>
+      <outline type="rss" text="scikit-learn PyPI" xmlUrl="https://pypi.org/rss/project/scikit-learn/releases.xml"/>
+    </outline>
+    <outline text="Recherche — méthodes d'analyse" title="Recherche">
+      <outline type="rss" text="arXiv stat.ML" xmlUrl="http://export.arxiv.org/rss/stat.ML"/>
+    </outline>
+    <outline text="Pratique métier" title="Metier">
+      <outline type="rss" text="Real Python" xmlUrl="https://realpython.com/atom.xml"/>
+      <outline type="rss" text="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed"/>
+    </outline>
+    <outline text="Alertes par mots-cles" title="Alertes">
+      <outline type="rss" text="Alerte — anomaly detection" xmlUrl="https://news.google.com/rss/search?q=%22anomaly+detection%22&#38;hl=fr&#38;gl=FR&#38;ceid=FR:fr"/>
+      <outline type="rss" text="Alerte — data quality" xmlUrl="https://news.google.com/rss/search?q=%22data+quality%22&#38;hl=fr&#38;gl=FR&#38;ceid=FR:fr"/>
+      <outline type="rss" text="Alerte — detection d'anomalies" xmlUrl="https://news.google.com/rss/search?q=%22d%C3%A9tection+d%27anomalies%22&#38;hl=fr&#38;gl=FR&#38;ceid=FR:fr"/>
+      <outline type="rss" text="Alerte — Power BI" xmlUrl="https://news.google.com/rss/search?q=%22Power+BI%22+donn%C3%A9es&#38;hl=fr&#38;gl=FR&#38;ceid=FR:fr"/>
+    </outline>
+    <outline text="Lecteur RSS uniquement (bloquees aux robots)" title="LecteurSeul">
+      <outline type="rss" text="Power BI blog (Microsoft)" xmlUrl="https://powerbi.microsoft.com/en-us/blog/feed/"/>
+    </outline>
+  </body>
+</opml>
